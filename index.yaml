@@ -1,9 +1,9 @@
-apiVersion: v2
+apiVersion: v1
 entries:
   shipy:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2025-07-21T09:30:44.7644038+02:00"
+    created: "2025-07-21T10:02:31.7564108+02:00"
     dependencies:
     - condition: provision.jaeger
       name: jaeger
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://kacperpiotrgadula.github.io/helm-chart/shipy-0.2.0.tgz
     version: 0.2.0
-generated: "2025-07-21T09:30:44.747112+02:00"
+generated: "2025-07-21T10:02:31.7372147+02:00"
